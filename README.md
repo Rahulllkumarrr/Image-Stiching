@@ -15,7 +15,9 @@ One is the left view and other is the right view.
 There are common points between two images.
 So we are going to use these common points to stitch the two images together.
 
+These common points are being searched between two images.
+After getting the common points we are stitching them together
+
 
 ## RESULT
-
 After code execution we get one stitched paranoma image which is blended together so look as if it is only one image.
